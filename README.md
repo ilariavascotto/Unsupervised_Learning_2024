@@ -6,5 +6,5 @@ Professor: Alex Rodriguez
 
 Tutor: Ilaria Vascotto
 
-- Introduction to Pandas and Data Preprocessing
+- [Introduction to Pandas](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab0a-IntrotoPandas.ipynb) and [Data Preprocessing](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab0b-DataPreprocessing.ipynb)
 - Lab 1: Data Generation and Visualization
