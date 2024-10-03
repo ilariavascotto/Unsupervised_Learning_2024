@@ -8,4 +8,4 @@ Tutor: Ilaria Vascotto
 
 - [Introduction to Pandas](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab0a-IntrotoPandas.ipynb) and [Data Preprocessing](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab0b-DataPreprocessing.ipynb)
 - [Lab 1](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab1.pdf): Data Generation and Visualization ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab1-DataGeneration.ipynb))
-- [Lab2 2](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab2.pdf): Principal Component Analysis
+- [Lab 2](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab2.pdf): Principal Component Analysis
