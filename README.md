@@ -10,4 +10,5 @@ Tutor: Ilaria Vascotto
 - [Lab 1](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab1.pdf): Data Generation and Visualization ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab1-DataGeneration.ipynb))
 - [Lab 2](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab2.pdf): Principal Component Analysis ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab2-PCA.ipynb))
 - [Lab 3](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab3.pdf): Isomap ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab3-Isomap.ipynb))
-- [Lab 4](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab4.pdf): Kernel PCA
+- [Lab 4](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab4.pdf): Kernel PCA ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab4-KernelPCA.ipynb))
+- [Lab 5](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab5.pdf): Recap on Dimensionality Reduction Techniques ([autoencoder](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab5a-Autoencoder.ipynb))
