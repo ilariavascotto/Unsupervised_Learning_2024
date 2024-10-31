@@ -12,4 +12,4 @@ Tutor: Ilaria Vascotto
 - [Lab 3](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab3.pdf): Isomap ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab3-Isomap.ipynb))
 - [Lab 4](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab4.pdf): Kernel PCA ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab4-KernelPCA.ipynb))
 - [Lab 5](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab5.pdf): Recap on Dimensionality Reduction Techniques ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab5-DimensionalityReduction.ipynb) - [notebook on autoencoder](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab5a-Autoencoder.ipynb))
-- [Lab 6](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab5.pdf): Intrinsic Dimension and Density Estimation
+- [Lab 6](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab6.pdf): Intrinsic Dimension and Density Estimation
