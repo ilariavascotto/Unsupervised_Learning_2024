@@ -13,4 +13,5 @@ Tutor: Ilaria Vascotto
 - [Lab 4](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab4.pdf): Kernel PCA ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab4-KernelPCA.ipynb))
 - [Lab 5](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab5.pdf): Recap on Dimensionality Reduction Techniques ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab5-DimensionalityReduction.ipynb) - [notebook on autoencoder](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab5a-Autoencoder.ipynb))
 - [Lab 6](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab6.pdf): Intrinsic Dimension and Density Estimation ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab6-IDandDensityEstimation.ipynb))
-- [Lab 7](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab7.pdf): $k$-means
+- [Lab 7](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab7.pdf): $k$-means ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab7-kMeans.ipynb))
+- [Lab 8](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab8.pdf): $k$-medoids and $c$-means
