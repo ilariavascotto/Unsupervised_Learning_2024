@@ -16,4 +16,4 @@ Tutor: Ilaria Vascotto
 - [Lab 7](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab7.pdf): $k$-means ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab7-kMeans.ipynb))
 - [Lab 8](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab8.pdf): $k$-medoids and $c$-means ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab8-kMedoids&cMeans.ipynb))
 - [Lab 9](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab9.pdf): Hierarchical and Spectral Clustering ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab9-HierarchicalandSpectral.ipynb))
-- [Lab 10](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab10.pdf): Final Lab 
+- [Lab 10](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Lab10.pdf): Final Lab ([sol](https://github.com/ilariavascotto/Unsupervised_Learning_2024/blob/main/Notebooks/Lab10-FinalLab.ipynb))
